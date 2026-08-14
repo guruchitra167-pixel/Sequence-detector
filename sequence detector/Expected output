@@ -1,0 +1,8 @@
+Time=0  | Reset=1 | Data=0 | Detect=0
+Time=10 | Reset=0 | Data=1 | Detect=0
+Time=20 | Reset=0 | Data=0 | Detect=0
+Time=30 | Reset=0 | Data=1 | Detect=0
+Time=40 | Reset=0 | Data=1 | Detect=1
+Time=50 | Reset=0 | Data=0 | Detect=0
+Time=60 | Reset=0 | Data=1 | Detect=0
+Time=70 | Reset=0 | Data=1 | Detect=1
